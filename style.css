@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/*ｈ１要素をblueにする*/
+h1 {
+    color: blue;
+}
+
+/*テーブルの金額の方（右側）を右寄せにする*/
+.td2 {
+    text-align: right;
+}
+
+body {
+    background-color:blanchedalmond;
+}
+
+/*トップページheader*/
+#header {
+    background-color: white;
+}
+
+.panfu {
+    box-shadow: 8px 8px gray;
+}
+
+/*アンカー色ブルー、下線なし*/
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+/*アンカー部分、マウスポインタ置くと色変わる*/
+a:hover {
+    color:gray;
+    text-decoration-color: rgb(181,181,181);
+}
+
