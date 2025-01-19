@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../js/script.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+    <title>本入居について</title>
+</head>
+<body>
+    <h1>本入居について</h1>
+    <p>まずは体験利用をして頂き、気に入られた際は本入居となります。<br>
+    本入居とは、正式に契約し、他の利用者様とともに暮らすことです。<br>
+    簡単なルールを守り、お互いを尊重する以外は自宅で過ごすのと何ら変わりはありません。<br>
+    暖かな空間と、楽しい生活をお約束します。</p>
+    <h2>月の利用料について</h2>
+    <small>※食費に関しましては30日計算で記載しています。</small>
+    <table border="2" style="border-collapse: collapse; border-color: blue">
+        <thead>
+            <tr><th>項目</th><th>金額</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>家賃</td><td class="td2">36000円</td></tr>
+            <tr><td>水光熱費</td><td  class="td2">14000円</td></tr>
+            <tr><td>日用品費</td><td class="td2">3000円</td></tr>
+            <tr><td>ネット費（Wi-Fi）</td><td class="td2">1700円</td></tr>
+            <tr><td>食費（朝・夕）</td><td class="td2">30000円</td></tr>
+            <tr><td>特別給付金（国）</td><td class="td2">－10000円</td></tr>
+            <tr><td>家賃助成金（市）</td><td class="td2">－13000円</td></tr>
+            <tr><td>合計</td><td class="td2">61700円</td></tr>
+        </tbody>
+    </table>
+    <small>昼食希望者は＋500円にて提供。</small>
+    <footer>
+        <a href="../index.html">戻る</a>
+    </footer>
+</body>
+</html>
